@@ -1,0 +1,36 @@
+ body { margin: 0; }
+  
+
+header{
+ width: 100%;
+ background: #ffc125;
+ height: 70px;
+}
+   
+   
+    
+ 
+footer {
+ background: url(images/blue.png) 50% 0  no-repeat; /* Фоновый рисунок травы */
+}
+.footer-bg {
+ background: #ffc125; /* Цвет фона */
+}
+
+.copyright {
+ width: 740px; /* Ширина макета без полей */
+ padding: 0 10px 10px; /* Поля */
+ margin: auto; /* Выравнивание по центру */
+ color: #526118; /* Цвет текста */
+}
+.copyright p { 
+ margin: 0 0 5px 170px; /* Отступы текста */ 
+
+   .menu, .menu li {
+
+        margin: 0;
+
+        padding: 0;
+
+    }
+	

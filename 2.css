@@ -1,0 +1,100 @@
+.nav{
+ background:yellow;
+ color:white
+ 
+}
+
+nav>ul>li{
+ float:left;
+ position: relative;
+}
+
+
+nav>ul>li>a{
+ text-transform: uppercase;
+ padding: 15px 60px;
+ display: block;
+ color:none;
+ font-weight: bold;
+ font-family: Tahoma;
+}
+
+nav>ul>li>a:hover{
+
+ background: radial-gradient(yellow, black);
+}
+
+
+li>ul{
+ display: none;
+ position: absolute;
+ top:45px;
+}
+
+
+nav>ul>li:hover ul{
+ display: block;
+ background:gray;
+}
+
+li>ul>li{
+ border-top:1px solid#fff;
+ width:180px;
+}
+
+li>ul>li>a{
+ text-align: center;
+ display: block;
+ color: none;
+ padding: 5px;
+ font-size: 16px;
+ transition: color .5s;
+}
+nav>ul>li>ul>li>a:hover{
+ color:green;
+}
+
+/*.search input {
+  width: 100%;
+  height: 22px;
+  padding-left: 5px;
+  border: 2px solid #7BA7AB;
+  border-radius: 5px;
+  outline: none;
+  background: #F9F0DA;
+  color: #9E9C9C;
+} 
+*/
+
+footer 
+.footer-bg {
+ background:yellow; /* Цвет фона */
+}
+
+.copyright {
+ width: 740px; /* Ширина макета без полей */
+ padding: 0 10px 10px; /* Поля */
+ margin: auto; /* Выравнивание по центру */
+ color:black; /* Цвет текста */
+}
+.copyright p { 
+ margin: 0 0 5px 170px; /* Отступы текста */ 
+
+   .menu, .menu li {
+
+        margin: 0;
+
+        padding: 0;
+
+    }
+	
+	.cent{
+	position: fixed;
+ top: 50%;
+ left: 50%;
+ margin-top: 2000px;
+ margin-left: -2000px;
+		
+	}
+		
+	

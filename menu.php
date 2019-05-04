@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+
+<meta charset="utf-8">
+<html>
+
+<title> MObiSEarchAdmin </title> 
+ 
+ <link href='2.css' rel='stylesheet' type='text/css'> 
+   <link href='3.css' rel='stylesheet' type='text/css'> 
+	<link href='bootstrap.min.css' rel='stylesheet' type='text/css'>
+
+<head>
+</head>
+<body>
+<header>
+  <body class="s_layout_fixed">
+
+<div id="wrapper"> 
+  
+  <!-- ********************** --> 
+  <!--      H E A D E R       --> 
+  <!-- ********************** --> 
+ <div class="nav">
+   <div class="wrapper">
+    <nav>
+     <ul>
+	
+	 
+	 
+      <li><a href="main.php">Главная</a></li>
+      <li><a href="About us.html">О нас</a></li>
+      <li><a href="index.html">Бренды</a>
+       
+     
+      <li><a href="index.html">Новинки</a></li>
+      <li><a href="index.html">Aксессуары</a></li>
+      <li><a href="control.php">Управление</a></li>
+     </ul>
+    </nav>
+   </div>
+ </div>
+  </header>
+  
+  
+  
+  
+  
+	<p style="text-align: center">
+	<a href="adm.php" class="c"> Управление администраторами </a>
+	<a href="control.php" class="c"> Управление ценами </a>
+	</p>
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </body>
