@@ -132,7 +132,7 @@ foreach($arr as $ex){
 		$memory=$ex['memory'];
 		$price=$ex['price'];
 		$img=$ex['img'];
-		$plitka.="<div class=\"col-sm-4\">
+		$plitka.="<div class=\"col-sm-4\"><a href=\"login.php\">
 															<div class=\"product\">
 																	<div class=\"product-img\">
 																		<a href=\"#\"><img src=\"images/iphone6s.jpg\" alt=\"\"></a>
@@ -144,7 +144,7 @@ foreach($arr as $ex){
 																			   Цвета: Silver / Rose Gold / Gold  </p>
 																	<p class=\"product-price\">Цена: €$price</p>
 																</div>
-															</div>";
+															</a></div>";
 }
 print $plitka;
 }
@@ -158,7 +158,7 @@ function print_third(){
  
  
 
- 
+
  
 <footer>
  
